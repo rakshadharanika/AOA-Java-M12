@@ -26,7 +26,7 @@ If it is not possible to reach the end, return -1.
 ```
 /*
 Program to implement Reverse a String
-Developed by: V RAKSHA DHAEANIKA
+Developed by: V RAKSHA DHARANIKA
 Register Number: 212223230167
 */
 import java.util.Scanner;
